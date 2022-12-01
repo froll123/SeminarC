@@ -1,0 +1,15 @@
+E:\SeminarC\SeminarC\bin\Debug\net7.0\SeminarC.exe
+E:\SeminarC\SeminarC\bin\Debug\net7.0\SeminarC.deps.json
+E:\SeminarC\SeminarC\bin\Debug\net7.0\SeminarC.runtimeconfig.json
+E:\SeminarC\SeminarC\bin\Debug\net7.0\SeminarC.dll
+E:\SeminarC\SeminarC\bin\Debug\net7.0\SeminarC.pdb
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.csproj.AssemblyReference.cache
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.GeneratedMSBuildEditorConfig.editorconfig
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.AssemblyInfoInputs.cache
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.AssemblyInfo.cs
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.csproj.CoreCompileInputs.cache
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.dll
+E:\SeminarC\SeminarC\obj\Debug\net7.0\refint\SeminarC.dll
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.pdb
+E:\SeminarC\SeminarC\obj\Debug\net7.0\SeminarC.genruntimeconfig.cache
+E:\SeminarC\SeminarC\obj\Debug\net7.0\ref\SeminarC.dll
